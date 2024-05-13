@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 -->
 Se supone que sé desarrollar basura, pero aún no, pero bueno.
 
+<img src="https://github.com/hash112/hash112/assets/98150931/d909d2b2-e2fd-467b-93d3-062ee67acd87" width="100" height="100">
+<img src="https://github.com/hash112/hash112/assets/98150931/2302fdfc-300a-48ef-8487-edec3ef6209b" width="100" height="100">
+
 - Me gusta desarrollar en Python, así que la mayoría de cosas que haga serán ahí.
-- ![python](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/python.svg)
 - También utilizo C++, no para hacer software, si no para algoritmos y participar en competencias de programación
-- ![cpp](https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c++.svg)
 
 Algún día le haré un commit al bot que ando haciendo, pero mejor dormir.
 
