@@ -35,7 +35,3 @@ Algún día le haré un commit al bot que ando haciendo, pero mejor dormir.
 
 
 ![hare](https://github.com/hash112/hash112/assets/98150931/e989903d-55d0-4bdb-9010-8f17237a44b0)
-
-
-
-<a href="https://twitter.com/hash_cpp"><img src="https://github.com/hash112/hash112/assets/98150931/8f15af23-9651-47e5-a7e8-ff6abd72790e" height="50" width="48"></a>
