@@ -23,7 +23,7 @@ Se supone que sé desarrollar basura, pero aún no, pero bueno.
 
 - Me gusta desarrollar en Python, así que la mayoría de cosas que haga serán ahí.
 - También utilizo C++, no para hacer software, si no para algoritmos y participar en competencias de programación como el ICPC.
-- Ando aprendiento algo de desarrollo web, el diseño no es lo mio.
+- Ando aprendiento algo de desarrollo web aunque el diseño no es lo mio (No quiero ser FrontEnd).
 - Cambié a Linux, la distro que elegí es Fedora.
 
 <img src="https://github.com/hash112/hash112/assets/98150931/d328d94b-2645-4a0c-9f7c-5c75fb4a7fc8" width="100" height="100">
