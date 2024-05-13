@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Se supone que sé desarrollar basura, pero aún no, pero bueno.
 
 <img src="https://github.com/hash112/hash112/assets/98150931/d909d2b2-e2fd-467b-93d3-062ee67acd87" width="100" height="100">
-<img src="https://github.com/hash112/hash112/assets/98150931/2302fdfc-300a-48ef-8487-edec3ef6209b" width="100" height="126">
+<img src="https://github.com/hash112/hash112/assets/98150931/2302fdfc-300a-48ef-8487-edec3ef6209b" width="116" height="100">
 <img src="https://github.com/hash112/hash112/assets/98150931/38242e71-c8a5-4ce8-ae6f-cf64ae4f1907" width="100" height="100">
 <img src="https://github.com/hash112/hash112/assets/98150931/596766d3-b06b-46bd-8ef6-fde12d2c17f8" width="100" height="100">
 
