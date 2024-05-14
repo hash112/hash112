@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 Se supone que sé desarrollar basura, pero aún no, pero bueno.
 
-<img src="https://github.com/hash112/hash112/assets/98150931/d909d2b2-e2fd-467b-93d3-062ee67acd87" width="75" height="75">
-<img src="https://github.com/hash112/hash112/assets/98150931/2302fdfc-300a-48ef-8487-edec3ef6209b" width="75" height="84">
-<img src="https://github.com/hash112/hash112/assets/98150931/38242e71-c8a5-4ce8-ae6f-cf64ae4f1907" width="75" height="75">
-<img src="https://github.com/hash112/hash112/assets/98150931/596766d3-b06b-46bd-8ef6-fde12d2c17f8" width="75" height="75">
+<img src="https://github.com/hash112/hash112/assets/98150931/d909d2b2-e2fd-467b-93d3-062ee67acd87" width="50" height="50">
+<img src="https://github.com/hash112/hash112/assets/98150931/2302fdfc-300a-48ef-8487-edec3ef6209b" width="50" height="56">
+<img src="https://github.com/hash112/hash112/assets/98150931/38242e71-c8a5-4ce8-ae6f-cf64ae4f1907" width="50" height="50">
+<img src="https://github.com/hash112/hash112/assets/98150931/596766d3-b06b-46bd-8ef6-fde12d2c17f8" width="50" height="50">
 
 
 - Me gusta desarrollar en Python, así que la mayoría de cosas que haga serán ahí.
@@ -26,7 +26,7 @@ Se supone que sé desarrollar basura, pero aún no, pero bueno.
 - Ando aprendiento algo de desarrollo web aunque el diseño no es lo mio (No quiero ser FrontEnd).
 - Cambié a Linux, la distro que elegí es Fedora.
 
-<img src="https://github.com/hash112/hash112/assets/98150931/d328d94b-2645-4a0c-9f7c-5c75fb4a7fc8" width="75" height="75">
+<img src="https://github.com/hash112/hash112/assets/98150931/d328d94b-2645-4a0c-9f7c-5c75fb4a7fc8" width="50" height="50">
 
 
 Algún día le haré un commit al bot que ando haciendo, pero mejor dormir.
