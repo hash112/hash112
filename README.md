@@ -25,11 +25,9 @@ Se supone que sé desarrollar basura, pero aún no, pero bueno.
 - También utilizo C++, no para hacer software, si no para algoritmos y participar en competencias de programación como el ICPC.
 - Ando aprendiento algo de desarrollo web aunque el diseño no es lo mio (No quiero ser FrontEnd).
 - Cambié a Linux, la distro que elegí es Fedora.
+- Recientemente me he dedicado a moddear juegos.
 
 <img src="https://github.com/hash112/hash112/assets/98150931/d328d94b-2645-4a0c-9f7c-5c75fb4a7fc8" width="50" height="50">
-
-
-Algún día le haré un commit al bot que ando haciendo, pero mejor dormir.
 
 ÁNIMO.
 
